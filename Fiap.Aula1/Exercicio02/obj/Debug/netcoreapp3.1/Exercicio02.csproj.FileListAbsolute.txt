@@ -1,0 +1,13 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\Fiap.Aula1\Fiap.Aula01.Exercicios\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicios.genruntimeconfig.cache
