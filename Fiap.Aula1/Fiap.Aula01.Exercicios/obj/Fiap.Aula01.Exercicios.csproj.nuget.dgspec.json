@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj": {}
+    "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\FiapModulo_02\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj": {
+    "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\FiapModulo_02\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\FiapModulo_02\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj",
         "projectName": "Fiap.Aula01.Exercicios",
-        "projectPath": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj",
+        "projectPath": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\FiapModulo_02\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\Fiap.Aula01.Exercicios.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\Desktop\\Fiap\\Modulo 2\\FiapModulo_02\\Fiap.Aula1\\Fiap.Aula01.Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
