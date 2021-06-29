@@ -8,16 +8,28 @@ namespace Fiap.Aula02.Exemplo
         static void Main(string[] args)
         {
             Produto notebook = new Produto();
+
+
             notebook.Id = 10;
-            Fabricante fabricante = new Fabricante();
             notebook.Nome = "Dell XPS";
             notebook.Valor = 1000;
+
+
+
+            Fabricante fabricante = new Fabricante();
+            fabricante.Nome = "Dell";
+
+
             notebook.Fabricante= new Fabricante();
-            notebook.Fabricante.Nome = "Dell";
-            Console.WriteLine(notebook.Id);
+
             notebook.Fabricante = fabricante;
 
+            Console.WriteLine(notebook.Id);
+            Console.WriteLine($"{notebook.Fabricante.Nome} está ativo: {notebook.Fabricante.Ativo}");
+
             Produto mouse = new Produto();
+            mouse.Nome = "Multilaser";
+            
         }
     }
 }
