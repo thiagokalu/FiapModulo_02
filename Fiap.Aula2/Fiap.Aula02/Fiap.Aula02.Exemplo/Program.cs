@@ -27,8 +27,15 @@ namespace Fiap.Aula02.Exemplo
             Console.WriteLine(notebook.Id);
             Console.WriteLine($"{notebook.Fabricante.Nome} está ativo: {notebook.Fabricante.Ativo}");
 
+            //Calcular e exibir o valor do notebook com 15% de desconto
+
+            decimal valor = notebook.CalcularDesconto(15);
+            Console.WriteLine($"O Produto com desconto é {valor}");
+            //Instanciar um outro objeto produto com outros valores nos atributos
             Produto mouse = new Produto();
             mouse.Nome = "Multilaser";
+
+            
             
         }
     }
