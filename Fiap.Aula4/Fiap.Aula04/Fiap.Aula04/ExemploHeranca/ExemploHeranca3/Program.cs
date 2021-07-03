@@ -24,10 +24,13 @@ namespace ExemploHeranca3
             var arroz = new Perecivel(4, "Arroz", new DateTime(2022, 12, 25));
 
 
-            Console.WriteLine($"O valor com desconto é {livro.CalcularDesconto(20)}");
+            Console.WriteLine($"O valor com desconto é {livro.CalcularDesconto(10)}");
+            Console.WriteLine($"O valor com desconto é {livro.CalcularDesconto()}");
+            Console.WriteLine($"O valor com desconto é {livro.CalcularDesconto("FIAP0")}");
+
 
             Console.WriteLine($"O valor da garantia estendida é {eletronico.CalcularGarantiaEstendida()}");
-
+            Console.WriteLine($"O valor da garantia estendida de 2 anos é {eletronico.CalcularGarantiaEstendida(2)}");
 
         }
     }

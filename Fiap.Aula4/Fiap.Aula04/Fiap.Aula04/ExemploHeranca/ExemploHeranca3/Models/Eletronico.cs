@@ -20,9 +20,18 @@ namespace ExemploHeranca3.Models
         {
             if (!Garantia)
                 return 0;
-            return Preco * 10 / 100;
+            return Preco * 0.1m;
 
             //return !Garantia ? 0 : Preco * 0.1m;  <- m no final converte para decimal
+        }
+        public decimal CalcularGarantiaEstendida(int anos)
+
+        {
+        //    if (!Garantia)
+        //        return 0;
+        //    return Preco * 0.1m + anos;
+            return CalcularGarantiaEstendida() * anos;
+
         }
     }
 }

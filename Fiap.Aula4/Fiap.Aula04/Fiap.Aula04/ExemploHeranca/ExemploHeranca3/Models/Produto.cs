@@ -25,10 +25,14 @@ namespace ExemploHeranca3.Models
        
         //overload de metodo. Metodo com mesmo nome e parametros diferentes. 
 
-        public decimal CalcularDesconto()
+        public virtual decimal CalcularDesconto()
         {
             //return Preco - (Preco * 0.05m);
             return CalcularDesconto(5);
+        }
+        public virtual decimal CalcularDesconto(string cupom)
+        {
+            return cupom == "FIAP10" ? CalcularDesconto(10) : Preco;
         }
     }
 }

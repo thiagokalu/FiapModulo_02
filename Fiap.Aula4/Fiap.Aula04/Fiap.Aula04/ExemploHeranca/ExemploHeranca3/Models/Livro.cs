@@ -17,10 +17,18 @@ namespace ExemploHeranca3.Models
 
         public Livro (int id, string nome, string autor) : base(id,nome)
         {
-
             Autor = autor;
-            Id = id;
-            Nome = nome;
+        }
+        //Sobrescrevendo o metodo definido pelo pai (override)
+        public override decimal CalcularDesconto()
+        {
+            return CalcularDesconto(90);
+        }
+        //sobrescrever o metodo desconto com cupom adicionando o cupom fiapbook com 30%
+        public override decimal CalcularDesconto(string cupom)
+        {
+            return cupom == "FIAPBOOK" ? CalcularDesconto(30) : cupom == "FIAP10" ? CalcularDesconto(10) : Preco;
+      
         }
     }
 }
