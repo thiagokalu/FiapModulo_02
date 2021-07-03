@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploHeranca", "ExemploHeranca\ExemploHeranca.csproj", "{105665F4-589E-4B3C-8872-C42D48B6DC2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploHeranca", "ExemploHeranca\ExemploHeranca.csproj", "{105665F4-589E-4B3C-8872-C42D48B6DC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula04.ExemploHeranca2", "Fiap.Aula04.ExemploHeranca2\Fiap.Aula04.ExemploHeranca2.csproj", "{D1C762DB-E4C7-4F83-8F12-938D80BB9EA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula04.ExemploHeranca2", "Fiap.Aula04.ExemploHeranca2\Fiap.Aula04.ExemploHeranca2.csproj", "{D1C762DB-E4C7-4F83-8F12-938D80BB9EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploHeranca3", "ExemploHeranca3\ExemploHeranca3.csproj", "{1A9B0531-0797-4DE2-9524-0FD1D50CE34B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D1C762DB-E4C7-4F83-8F12-938D80BB9EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1C762DB-E4C7-4F83-8F12-938D80BB9EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1C762DB-E4C7-4F83-8F12-938D80BB9EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9B0531-0797-4DE2-9524-0FD1D50CE34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9B0531-0797-4DE2-9524-0FD1D50CE34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9B0531-0797-4DE2-9524-0FD1D50CE34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9B0531-0797-4DE2-9524-0FD1D50CE34B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

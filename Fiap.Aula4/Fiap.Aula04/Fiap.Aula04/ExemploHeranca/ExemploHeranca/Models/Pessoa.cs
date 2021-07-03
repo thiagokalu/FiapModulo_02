@@ -12,6 +12,18 @@ namespace ExemploHeranca.Models
         //Protected private -> classe e classes filhas dentro do mesmo projeto 
         public string Nome { get; set; }
         public int Idade { get; set; }
+        
+        //construtor de pessoa ocm o nome
+
+        public Pessoa (string nome)
+        {
+            Nome = nome;
+        }
+        public Pessoa (string nome, int idade)
+        {
+            Nome = nome;
+            Idade = idade;
+        }
         public string RetornarDados()
         {
             return $"Nome: {Nome}, Idade: {Idade}";

@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ref\ExemploHeranca3.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\bin\Debug\net5.0\ExemploHeranca3.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ref\ExemploHeranca3.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ExemploHeranca3\obj\Debug\net5.0\ExemploHeranca3.genruntimeconfig.cache

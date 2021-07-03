@@ -10,6 +10,12 @@ namespace ExemploHeranca.Models
     {
         public string MateriaLecionada { get; set; }
 
+        //Construtor invoicado
+
+        //public Professor (string nome, int idade) : base(nome,idade)
+        //{
+        //    Nome = nome;
+        //}
         public void FazerChamada()
         {
             Console.WriteLine($"{Nome} está fazendo chamada");
