@@ -26,20 +26,22 @@ namespace Fiap.Aula03
 
             Console.WriteLine("A conta corrente é especial?");
             var especial = bool.Parse(Console.ReadLine());
+            //passa o nome do parâmetro e o valor do método
             //instanciar os objetos e atribuir os valores aos seus atributos (propriedades)
-            var cliente = new Cliente();
-            cliente.Nome = nome;
-            cliente.Telefone = telefone;
-            cliente.CPF = cpf;
+            //var cliente = new Cliente(nome, cpf, telefone)
+            var cliente = new Cliente(nome:nome, telefone: telefone, cpf:cpf );
+            //cliente.Nome = nome;
+            //cliente.Telefone = telefone;
+            //cliente.CPF = cpf;
 
-            var cp = new ContaPoupanca();
+            var cp = new ContaPoupanca(numeroPoupanca);
             cp.Numero = numeroPoupanca;
 
-            var cc = new ContaCorrente();
-            cc.cliente = cliente;
-            cc.ContaPoupanca = cp;
-            cc.Numero = numeroCc;
-            cc.Especial = especial;
+            var cc = new ContaCorrente(cliente, cp, numeroCc, especial);
+            //cc.cliente = cliente;
+            //cc.ContaPoupanca = cp;
+            //cc.Numero = numeroCc;
+            //cc.Especial = especial;
             if(especial)
             {
                 Console.WriteLine("Digite o limite");
@@ -94,7 +96,7 @@ namespace Fiap.Aula03
                         Console.WriteLine("Opção inválida!");
                         break;
                 }
-            } while (opcao != 0);
+            } while     (opcao != 0);
                 
             }
         }

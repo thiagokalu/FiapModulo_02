@@ -12,10 +12,23 @@ namespace Fiap.Aula03.Models
         public double Numero { get; set; }
         public bool Especial { get; set; }
         public decimal Limite { get; set; }
-        public Cliente cliente { get; set; }
+        public Cliente Cliente { get; set; }
         public ContaPoupanca ContaPoupanca { get; set; }
         public double Juros { get; set; }
-
+        public ContaCorrente(
+            Cliente cliente,
+            ContaPoupanca poupanca,
+            double numero,         
+            bool especial
+            )
+        {
+            Cliente = cliente;
+            ContaPoupanca = poupanca;
+            Numero = numero;
+            Especial = especial;
+   
+        }
+        
         public bool Depositar(decimal valor)
         {
             if (valor > 0)

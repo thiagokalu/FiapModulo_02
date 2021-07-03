@@ -11,6 +11,14 @@ namespace Fiap.Aula03.Models
         public decimal Saldo { get; private set; }
         public double Numero { get; set; }
         public decimal Rendimentos{ get; set; }
+
+        public ContaPoupanca(
+            double numero)
+        {
+           
+            Numero = numero;
+        }
+
         public bool Depositar(decimal valor) 
         {         //Valida se é um deposito posivito
             if (valor > 0)
