@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fiap.Aula04.ExemploHeranca3_Exercicio.Models
 {
-    public class Formacao 
+    public class Formacao
     {
         public string Nome { get; set; }
         public int Duracao { get; set; }
@@ -15,7 +15,7 @@ namespace Fiap.Aula04.ExemploHeranca3_Exercicio.Models
         public bool Bacharelado { get; set; }
         public bool Tecnologo { get; set; }
 
-        public Formacao (string nome)
+        public Formacao(string nome)
         {
             Nome = nome;
         }
@@ -23,7 +23,7 @@ namespace Fiap.Aula04.ExemploHeranca3_Exercicio.Models
         {
             return (nota1 + nota2) / 2;
         }
-        public float CalcularMedia(float nota1, float nota2,float nota3)
+        public float CalcularMedia(float nota1, float nota2, float nota3)
         {
             if (nota1 > nota3 && nota2 > nota3)
             {
@@ -47,9 +47,9 @@ namespace Fiap.Aula04.ExemploHeranca3_Exercicio.Models
             }
             else if (Bacharelado)
             {
-                if (Nome.ToLower().Contains ("engenharia"))
-                { 
-                Duracao = 60;
+                if (Nome.ToLower().Contains("engenharia"))
+                {
+                    Duracao = 60;
                 }
                 else
                 {
@@ -60,12 +60,12 @@ namespace Fiap.Aula04.ExemploHeranca3_Exercicio.Models
             {
                 Duracao = 48;
             }
-        }   
+        }
         public virtual decimal CalcularMensalidade()
-           {
+        {
             DefinirDuracao();
             return Mensalidade = Duracao * 400;
-           }     
+        }
     }
- }
+}
 

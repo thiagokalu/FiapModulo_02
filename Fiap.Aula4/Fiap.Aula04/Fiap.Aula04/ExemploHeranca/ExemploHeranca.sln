@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemploHeranca3", "ExemploH
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioFaculdade", "ExercicioFaculdade\ExercicioFaculdade.csproj", "{8B714B90-9021-403A-859B-439A305CD2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Aula04.ExemploHeranca3-Exercicio", "Fiap.Aula04.ExemploHeranca3-Exercicio\Fiap.Aula04.ExemploHeranca3-Exercicio.csproj", "{0763D3DE-5BA5-43A7-8211-77D59475F700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fiap.Aula04.ExemploHeranca3-Exercicio", "Fiap.Aula04.ExemploHeranca3-Exercicio\Fiap.Aula04.ExemploHeranca3-Exercicio.csproj", "{0763D3DE-5BA5-43A7-8211-77D59475F700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolucaoExercicioProfessor", "ResolucaoExercicioProfessor\ResolucaoExercicioProfessor.csproj", "{CD9776ED-B9B0-4F34-874E-CFBAA3EAEEE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0763D3DE-5BA5-43A7-8211-77D59475F700}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0763D3DE-5BA5-43A7-8211-77D59475F700}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0763D3DE-5BA5-43A7-8211-77D59475F700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9776ED-B9B0-4F34-874E-CFBAA3EAEEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9776ED-B9B0-4F34-874E-CFBAA3EAEEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9776ED-B9B0-4F34-874E-CFBAA3EAEEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9776ED-B9B0-4F34-874E-CFBAA3EAEEE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

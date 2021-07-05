@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ref\ResolucaoExercicioProfessor.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\bin\Debug\net5.0\ResolucaoExercicioProfessor.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ref\ResolucaoExercicioProfessor.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula4\Fiap.Aula04\Fiap.Aula04\ExemploHeranca\ResolucaoExercicioProfessor\obj\Debug\net5.0\ResolucaoExercicioProfessor.genruntimeconfig.cache
