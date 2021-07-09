@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Fiap.Aula03.Models
 {
-    public class ContaCorrente
+     class ContaCorrente : Conta
     {
-        public decimal Saldo { get; private set; }
-        public double Numero { get; set; }
+       
         public bool Especial { get; set; }
         public decimal Limite { get; set; }
         public Cliente Cliente { get; set; }
@@ -29,15 +28,7 @@ namespace Fiap.Aula03.Models
    
         }
         
-        public bool Depositar(decimal valor)
-        {
-            if (valor > 0)
-            {
-                Saldo += valor;
-                return true;
-            }
-            return false;
-        }
+        
         public bool Retirar(decimal valor)
         {
             if (Especial)
@@ -63,7 +54,7 @@ namespace Fiap.Aula03.Models
             if (Especial)
                 return Saldo + Limite;
             else
-                return Saldo;
+                throw new Exception("Saldo Insuficiente");
 
             // return Especial? Saldo + Limite : Saldo;  // <- este é um exemplo de ternário
             /*
