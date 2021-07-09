@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\ref\Palindromo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\bin\Debug\net5.0\Palindromo.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\ref\Palindromo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Exercicio_livre\Palindromo\Palindromo\obj\Debug\net5.0\Palindromo.genruntimeconfig.cache

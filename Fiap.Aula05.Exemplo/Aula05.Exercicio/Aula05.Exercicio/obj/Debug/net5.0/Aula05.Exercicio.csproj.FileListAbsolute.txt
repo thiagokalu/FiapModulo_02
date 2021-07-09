@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\ref\Aula05.Exercicio.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\bin\Debug\net5.0\Aula05.Exercicio.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\ref\Aula05.Exercicio.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.Exercicio\Aula05.Exercicio\obj\Debug\net5.0\Aula05.Exercicio.genruntimeconfig.cache

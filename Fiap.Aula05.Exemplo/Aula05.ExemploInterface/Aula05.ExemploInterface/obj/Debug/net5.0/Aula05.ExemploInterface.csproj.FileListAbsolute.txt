@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\ref\Aula05.ExemploInterface.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\bin\Debug\net5.0\Aula05.ExemploInterface.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\ref\Aula05.ExemploInterface.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Aula05.ExemploInterface\Aula05.ExemploInterface\obj\Debug\net5.0\Aula05.ExemploInterface.genruntimeconfig.cache

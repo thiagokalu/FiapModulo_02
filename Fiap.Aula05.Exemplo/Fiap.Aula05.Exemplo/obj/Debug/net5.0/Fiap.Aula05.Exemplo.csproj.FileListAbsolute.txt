@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.exe
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.deps.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.runtimeconfig.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\ref\Fiap.Aula05.Exemplo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\bin\Debug\net5.0\Fiap.Aula05.Exemplo.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\ref\Fiap.Aula05.Exemplo.dll
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.pdb
+C:\Users\thiag\Desktop\Fiap\Modulo 2\FiapModulo_02\Fiap.Aula05.Exemplo\Fiap.Aula05.Exemplo\obj\Debug\net5.0\Fiap.Aula05.Exemplo.genruntimeconfig.cache
